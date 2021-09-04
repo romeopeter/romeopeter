@@ -12,7 +12,7 @@ I am a fullstack software engineer from Abuja.
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/romeo-peter)
 <br>
 <br>
-## Expertise
+## Stack
 <img align="left" alt="react" src="https://img.shields.io/badge/reactJS%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="tailwindcss" src="https://img.shields.io/static/v1?label=&style=for-the-badge&logo=tailwindcss&logoColor=blue&message=TailwindCSS&color=white" />
 <img align="left" alt="django" src="https://img.shields.io/static/v1?label=&style=for-the-badge&logo=django&logoColor=white&message=Django&color=green">
