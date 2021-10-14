@@ -1,6 +1,6 @@
 ### Hi there 👋🏿
 
-I am a fullstack software engineer from Abuja.
+I'm passionate about building software product that transform and scale ideas.
 
 <!-- - 🌱 Learning design patterns in depth -->
 
