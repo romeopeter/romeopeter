@@ -1,7 +1,7 @@
 ### Hi there 👋🏿
 
 I am a fullstack software engineer from Abuja.
-- 🔭 Working on frontend and backend project using ReactJS and Django
+
 <!-- - 🌱 Learning design patterns in depth -->
 
 ## Contact me
