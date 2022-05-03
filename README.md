@@ -2,7 +2,7 @@
 
 I'm passionate about building software product that transform and scale ideas.
 
-- 🌱 Currenty learning and writing about using TypeScript
+- 🌱 Currenty learning and writing about TypeScript
 
 ## Contact me
 [<img align="left" alt="email" src="https://img.shields.io/static/v1?label=&style=for-the-badge&logo=minutemailer&logoColor=white&message=email&color=black" />](mailto:hello@romeopeter.com)
