@@ -1,8 +1,9 @@
 ### Hello 👋🏿
 
-I'm passionate about building software product that transform and scale ideas.
+Romeo here! I'm a fullstack software developer and technical writer.
 
-- 🌱 Currenty learning and writing about TypeScript
+- 🌱 TypeScript and Unit Testing with Jest.
+- 💼 Currently open and seeking for remote job.
 
 <br>
 
