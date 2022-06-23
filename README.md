@@ -2,7 +2,7 @@
 
 Romeo here! I'm a fullstack software developer and technical writer.
 
-- 🌱 Currently learning blockchain in public.
+- ⛓ Currently learning blockchain in public.
 - 💼 Open and seeking for remote job.
 
 <br>
