@@ -2,8 +2,8 @@
 
 Romeo here! I'm a fullstack software developer and technical writer.
 
-- 🌱 TypeScript and Unit Testing with Jest.
-- 💼 Currently open and seeking for remote job.
+- 🌱 Currently learning blockchain in public.
+- 💼 Open and seeking for remote job.
 
 <br>
 
