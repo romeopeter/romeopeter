@@ -1,8 +1,8 @@
 ### Hello 👋🏿
 
-Romeo here! I'm a fullstack software developer and technical writer.
+Romeo here! Fullstack software developer and technical writer.
 
-- ⛓ Currently learning blockchain in public.
+- ⛓ Currently creating at Duowork
 
 <br>
 
