@@ -1,8 +1,8 @@
 ### Hello 👋🏿
 
-Romeo here! Fullstack software developer and technical writer.
+Romeo here! Full-stack software developer and technical writer.
 
-- ⛓ Currently creating at Duowork
+- Currently creating at Duowork
 
 <br>
 
