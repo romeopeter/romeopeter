@@ -1,17 +1,11 @@
 ### Hello 👋🏿
 
-Romeo here! Full-stack software developer and technical writer.
-
-- Currently creating at Duowork
+I'm Romeo and I'm building [duowork.tech](https://Duowork.tech)
 
 <br>
 
-## Stack
+## Let's connect
 
-<img align="left" alt="react" src="https://img.shields.io/badge/reactJS%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img align="left" alt="tailwindcss" src="https://img.shields.io/static/v1?label=&style=for-the-badge&logo=tailwindcss&logoColor=blue&message=TailwindCSS&color=white" />
-<img align="left" alt="django" src="https://img.shields.io/static/v1?label=&style=for-the-badge&logo=django&logoColor=white&message=Django&color=green">
-<img align="left" alt="django" src="https://img.shields.io/static/v1?label=&style=for-the-badge&message=Django%20rest%20framework&color=red">
-<img align="left" alt="postgresql" src="https://img.shields.io/badge/postgresql-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
-<br>
-<br>
+[<img align="left" alt="X" src="https://img.shields.io/badge/%40_romeopeter-0d1116?logo=X&color=000" />](https://x.com/_romeopeter)
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/romeo_peter-0d1116?logo=linkedin&color=0d1116" />](https://www.linkedin.com/in/romeo-peter/)
+[<img align="left" alt="Instagram" src="https://img.shields.io/badge/%40_romeopeter-0d1116?logo=instagram&logoColor=fff&color=0d1116">](https://www.instagram.com/_romeopeter/)
