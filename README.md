@@ -1,6 +1,6 @@
 ### Hello 👋🏿
 
-My name is Romeo and I'm building [duowork.tech](https://Duowork.tech)
+My name is Romeo and I craft solutions at [duowork.tech](https://Duowork.tech)
 
 <br>
 
