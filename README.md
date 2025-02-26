@@ -1,6 +1,6 @@
 ### Hello 👋🏿
 
-My name is Romeo and I enjoy crafting solutions at [duowork.tech](https://Duowork.tech) (current deployed at [duowork.github.io](https://duowork.github.io))
+Tinkerer at [duowork.tech](https://Duowork.tech)
 
 <br>
 
