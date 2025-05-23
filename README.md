@@ -1,8 +1,8 @@
 ### Hi 👋🏿
 
-<b>I'm Romeo - Developer, Writer & Builder of Things That (Actually) Work.</b> <!--I run Duowork, a software agency in Abuja, Nigeria helping businesses scale with clear thinking and reliable code. --> Whether it's designing robust systems, thinking about UX & implementing UIs or writing thoughful content, I enjoy crafting real solutions to real problem... and hope the code does not break on Monday :)
+<b>I'm Romeo - Developer, Writer & Builder of Things That (Actually) Work.</b> <!--I run Duowork, a software agency in Abuja, Nigeria helping businesses scale with clear thinking and reliable code. --> Whether it's designing robust systems, thinking about UX & implementing UIs or writing thoughful content, I enjoy crafting real solutions to real problem... and hope it doesn't break the next day :)
 
-When not deep in work, I'm probably reading the Bible, exploring nonfiction, listening to rap music or getting lost in some movie series, anime or documentary.
+When not deep in work, I'm probably caught in the Bible... or some other book. I enjoy rap music and getting lost in some movie series, anime or documentary.
 
 <br>
 
